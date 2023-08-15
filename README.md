@@ -2,22 +2,20 @@
 <p align='center'>
 </p> 
 
-<!--
-**Compote0/Compote0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Pierre Orgeret</h1>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Web Development and others languages, like Solidity !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm also a blockchain and crypto enthusiast!
+
+- 📫 How to reach me **pierreorgeret!gmail.com@gmail.com**
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
 <a href = 'https://www.linkedin.com/in/pierre-orgeret-21b80515b/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://github.com/Compote0'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+
+
+
+
+
+
