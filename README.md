@@ -21,7 +21,7 @@
 
  
 
-<h3 align="left" dir="auto"><a id="user-content-hi-guys-" class="anchor" aria-hidden="true" href="#Social-Network"></a>Lang</h3>
+<h3 align="left" dir="auto"><a id="user-content-hi-guys-" class="anchor" aria-hidden="true" href="#Social-Network"></a>Lang & tools</h3>
 <div class.display:flex;>
 <a>
          <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"</a>
@@ -34,7 +34,27 @@
   <a>
          <img src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"</a>
   <a>
-         <img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"</a>                                    
+         <img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"</a>    
+
+  <a>
+    <img src ="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
+  </a>
+    <a>
+    <img src ="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  </a>
+    <a>
+    <img src ="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  </a>
+    <a>
+    <img src ="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white">
+  </a>
+    <a>
+    <img src ="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white">
+  </a>
+      <a>
+    <img src ="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
+  </a>
+          
 
   </div>
 
