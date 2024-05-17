@@ -1,7 +1,7 @@
 <h1 align="center" dir="auto">Hello ~ Bonjour </h1>
 <h2 align="center" dir="auto"> I'm Pierre learning React and Solidity ! </h2>
 
-- 🔭 I'm also a blockchain and crypto enthusiast!
+- 🔭 I'm a blockchain and crypto enthusiast, and i am currently open to work !
 
 
 
@@ -59,8 +59,12 @@
   </div>
 
 <h3 align="left" dir="auto"><a id="user-content-hi-guys-" class="anchor" aria-hidden="true" href="#Social-Network"></a>OS </h3>
-  <img src ="https://shields.io/badge/Windows--9cf?logo=Windows&style=social">
-          
+
+![General badge](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white) ![General badge](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)
+
+<h3 align="left" dir="auto"><a id="user-content-hi-guys-" class="anchor" aria-hidden="true" href="#Social-Network"></a>Languages </h3>
+
+🇬🇧 🇫🇷           
          
 
 
