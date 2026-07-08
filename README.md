@@ -37,54 +37,54 @@
 
 <strong>Languages</strong>
 
-<img src="https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Kotlin-1a1b27?style=for-the-badge&logo=kotlin" alt="Kotlin" />
-<img src="https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python" alt="Python" />
-<img src="https://img.shields.io/badge/C%23%20.NET-1a1b27?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# .NET" />
-<img src="https://img.shields.io/badge/Solidity-1a1b27?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+<img width="48" title="TypeScript" alt="TypeScript" src="https://skillicons.dev/icons?i=ts&theme=dark" />
+<img width="48" title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=js&theme=dark" />
+<img width="48" title="Kotlin" alt="Kotlin" src="https://skillicons.dev/icons?i=kotlin&theme=dark" />
+<img width="48" title="Java" alt="Java" src="https://skillicons.dev/icons?i=java&theme=dark" />
+<img width="48" title="Python" alt="Python" src="https://skillicons.dev/icons?i=py&theme=dark" />
+<img width="48" title="C# / .NET" alt="C#" src="https://skillicons.dev/icons?i=cs&theme=dark" />
+<img width="48" title="Solidity" alt="Solidity" src="https://skillicons.dev/icons?i=solidity&theme=dark" />
 
 <strong>Frontend & Mobile</strong>
 
-<img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React%20Native-1a1b27?style=for-the-badge&logo=react" alt="React Native" />
-<img src="https://img.shields.io/badge/Expo-1a1b27?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-<img src="https://img.shields.io/badge/Tailwind-1a1b27?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/MUI-1a1b27?style=for-the-badge&logo=mui" alt="MUI" />
-<img src="https://img.shields.io/badge/Chakra%20UI-1a1b27?style=for-the-badge&logo=chakraui" alt="Chakra UI" />
-<img src="https://img.shields.io/badge/Three.js-1a1b27?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+<img width="48" title="React" alt="React" src="https://skillicons.dev/icons?i=react&theme=dark" />
+<img width="48" title="Next.js" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs&theme=dark" />
+<img width="48" title="React Native" alt="React Native" src="./assets/icons/reactnative.svg" />
+<img width="48" title="Expo" alt="Expo" src="./assets/icons/expo.svg" />
+<img width="48" title="Tailwind CSS" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
+<img width="48" title="MUI" alt="MUI" src="https://skillicons.dev/icons?i=materialui&theme=dark" />
+<img width="48" title="Chakra UI" alt="Chakra UI" src="./assets/icons/chakraui.svg" />
+<img width="48" title="Three.js" alt="Three.js" src="https://skillicons.dev/icons?i=threejs&theme=dark" />
 
 <strong>Backend & Geodata</strong>
 
-<img src="https://img.shields.io/badge/NestJS-1a1b27?style=for-the-badge&logo=nestjs" alt="NestJS" />
-<img src="https://img.shields.io/badge/Express-1a1b27?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs" alt="Node.js" />
-<img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/PostGIS-1a1b27?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS" />
-<img src="https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql" alt="MySQL" />
-<img src="https://img.shields.io/badge/Mapbox%20GL-1a1b27?style=for-the-badge&logo=mapbox&logoColor=white" alt="Mapbox GL" />
+<img width="48" title="NestJS" alt="NestJS" src="https://skillicons.dev/icons?i=nestjs&theme=dark" />
+<img width="48" title="Express" alt="Express" src="https://skillicons.dev/icons?i=express&theme=dark" />
+<img width="48" title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+<img width="48" title="PostgreSQL" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+<img width="48" title="PostGIS" alt="PostGIS" src="./assets/icons/postgis.svg" />
+<img width="48" title="MySQL" alt="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+<img width="48" title="Mapbox GL" alt="Mapbox GL" src="./assets/icons/mapbox.svg" />
 
 <strong>Web3 / EVM</strong>
 
-<img src="https://img.shields.io/badge/Foundry-1a1b27?style=for-the-badge" alt="Foundry" />
-<img src="https://img.shields.io/badge/Hardhat-1a1b27?style=for-the-badge" alt="Hardhat" />
-<img src="https://img.shields.io/badge/Wagmi-1a1b27?style=for-the-badge&logo=wagmi&logoColor=white" alt="Wagmi" />
-<img src="https://img.shields.io/badge/Viem-1a1b27?style=for-the-badge" alt="Viem" />
-<img src="https://img.shields.io/badge/Ethers.js-1a1b27?style=for-the-badge&logo=ethers&logoColor=white" alt="Ethers.js" />
-<img src="https://img.shields.io/badge/OpenZeppelin-1a1b27?style=for-the-badge&logo=openzeppelin" alt="OpenZeppelin" />
+<img width="48" title="Foundry" alt="Foundry" src="./assets/icons/foundry.svg" />
+<img width="48" title="Hardhat" alt="Hardhat" src="./assets/icons/hardhat.svg" />
+<img width="48" title="Wagmi" alt="Wagmi" src="./assets/icons/wagmi.svg" />
+<img width="48" title="Viem" alt="Viem" src="./assets/icons/viem.svg" />
+<img width="48" title="Ethers.js" alt="Ethers.js" src="./assets/icons/ethers.svg" />
+<img width="48" title="OpenZeppelin" alt="OpenZeppelin" src="./assets/icons/openzeppelin.svg" />
 
 <strong>DevOps & Tools</strong>
 
-<img src="https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker" alt="Docker" />
-<img src="https://img.shields.io/badge/AWS-1a1b27?style=for-the-badge" alt="AWS" />
-<img src="https://img.shields.io/badge/Jenkins-1a1b27?style=for-the-badge&logo=jenkins" alt="Jenkins" />
-<img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Xcode-1a1b27?style=for-the-badge&logo=xcode" alt="Xcode" />
-<img src="https://img.shields.io/badge/Cursor-1a1b27?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-<img src="https://img.shields.io/badge/Claude-1a1b27?style=for-the-badge&logo=claude" alt="Claude" />
+<img width="48" title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" />
+<img width="48" title="AWS" alt="AWS" src="https://skillicons.dev/icons?i=aws&theme=dark" />
+<img width="48" title="Jenkins" alt="Jenkins" src="https://skillicons.dev/icons?i=jenkins&theme=dark" />
+<img width="48" title="Git" alt="Git" src="https://skillicons.dev/icons?i=git&theme=dark" />
+<img width="48" title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" />
+<img width="48" title="Xcode" alt="Xcode" src="./assets/icons/xcode.svg" />
+<img width="48" title="Cursor" alt="Cursor" src="./assets/icons/cursor.svg" />
+<img width="48" title="Claude" alt="Claude" src="./assets/icons/claude.svg" />
 
 </div>
 
