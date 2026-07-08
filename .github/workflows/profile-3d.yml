@@ -15,6 +15,16 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
+      - name: Diagnostic token (temporaire)
+        env:
+          T: ${{ secrets.PAT_3D }}
+        run: |
+          if [ -z "$T" ]; then echo "PAT_3D ABSENT du contexte"; exit 0; fi
+          echo "PAT_3D present, visibilite :"
+          curl -s -H "Authorization: bearer $T" -X POST \
+            -d '{"query":"{ viewer { login contributionsCollection { totalCommitContributions restrictedContributionsCount commitContributionsByRepository(maxRepositories:100){ repository { isPrivate } } } } }"}' \
+            https://api.github.com/graphql | \
+            python3 -c "import json,sys; d=json.load(sys.stdin)['data']['viewer']; c=d['contributionsCollection']; priv=sum(1 for r in c['commitContributionsByRepository'] if r['repository']['isPrivate']); print(f\"login={d['login']} commitsDetailles={c['totalCommitContributions']} restricted={c['restrictedContributionsCount']} reposPrivesVisibles={priv}\")"
       - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           # PAT_3D (token personnel) permet d'inclure les contributions privées
